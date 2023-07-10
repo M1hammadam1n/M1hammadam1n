@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @M1hammadam1n
+- 👀 I’m interested games and watch films
+- 🌱 I’m currently learning mobile development
+- 💞️ I’m looking to collaborate on mobile development
+- 📫 How to reach me +998903377273 https://t.me/Mr_MMM_77
