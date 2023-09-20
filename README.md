@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @M1hammadam1n
-- 👀 I’m interested new technologies and gadgets
-- 🌱 I’m currently learning mobile development
-- 💞️ I’m looking to collaborate on mobile development
-- 📫 How to reach me +998903377273 https://t.me/Mr_MMM_77
+Имя: Muhammadamin
+Телефон: +998903377273
+Email: raufjonovmuhammadamin@gmail.com
+
+
