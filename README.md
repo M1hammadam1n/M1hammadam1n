@@ -38,3 +38,12 @@ I'm a **Junior Flutter Developer** from Tashkent, Uzbekistan, with **1.5 years o
 
 I'm passionate about building impactful apps and growing into a strong mobile developer. Always open to collaboration and learning new technologies.
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asahero" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=M1hammadam1n&show_icons=true&locale=en" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asahero&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
