@@ -41,9 +41,9 @@ I'm passionate about building impactful apps and growing into a strong mobile de
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asahero" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadamin" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=M1hammadam1n&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadamin&show_icons=true&locale=en" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asahero&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammadamin&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
